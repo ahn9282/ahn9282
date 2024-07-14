@@ -7,21 +7,13 @@
 ### 교육
 풀스텍 웹 개발자 국비지원 교육
 - 교육기간 : 23.21.29 ~ 24.07.19
-- 웹 개발 기초 지식 습득
-- JAVA/Spring 기반 벡엔드 개발 습득
-- 팀프로젝트 진행
 
 ### Skills🔭
-- JAVA, Spring MVC, Spring Boot, Spring Security
-- Oracle, MyBatis, JPA, MySQL
-- html, css, javascript, bootstrap, jquery, jsp
-- AWS EC2, RDS
-- Git/Github, SourceTree, Postman
+- 기초적인 페이지 구현 지식과 스프링 프레임 워크 기반 백엔드 기술을 위주로 학습하고 있습니다.
 
   ### Etc
   #### 강원대학교 전자공학과 졸업
   - 졸업 : 2016.03 ~ 2022.02
-  - 졸업 작품 : IOT 기반 리마인더 서랍 제작(Python)
 
  📫 junsyub@gmail.com
 
